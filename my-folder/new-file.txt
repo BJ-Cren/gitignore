@@ -1,5 +1,0 @@
-Some contents in the new-file.txt
-
-One for line here (while it was ignored)
-
-One more edit
